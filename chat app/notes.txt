@@ -1,0 +1,6 @@
+Start the Server:	java ChatServer
+
+
+
+
+Start a Client:		java ChatClient
